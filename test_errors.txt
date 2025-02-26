@@ -1,0 +1,5 @@
+a*b
+ab|*b&
+ab|*a&b&a*&*ab|&ab|&
+abcderror
+ae|*d&
